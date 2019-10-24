@@ -1,2 +1,2 @@
-exports.TOKEN = "NjM1OTI1MjY4Njk0ODI3MDA5.XbD2gg.d6TKJtZo2RwUz_UE301YboH7hmk";
+exports.TOKEN = "NjM1OTI1MjY4Njk0ODI3MDA5.XbD7rQ.rE5J6_rEP-J2Ue9Pvo7SYoOg7dg";
 exports.PREFIX = "§";

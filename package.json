@@ -1,0 +1,12 @@
+{
+  "name": "hubyl",
+  "version": "1.0.0",
+  "description": "Bot de gestion pour la structure HUB Gaming",
+  "main": "main.js",
+  "repository": "https://github.com/Hexodiem/HUB-Gaming---Hubyl.git",
+  "author": "Hexodiem <thomas.vanop@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}

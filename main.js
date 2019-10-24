@@ -1,10 +1,12 @@
 const  Discord = require('discord.js');
 const { MessageEmbed }  = require('discord.js');
 const { TOKEN, PREFIX } = require("./config");
+
 const client = new Discord.Client();
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
+  PREFIX : process.env.PREFIX
 });
 
 client.on('message', msg => {
@@ -29,4 +31,4 @@ client.on('message', msg => {
 
 
 
-client.login(TOKEN);
+client.login(process.env.BOT_TOKEN);
